@@ -1,0 +1,28 @@
+body {
+    margin: 30px 30px;
+    font-family: Calibri;
+    color: #333333;
+    background-color: #F9F9F9;
+}
+
+hr {
+    margin-top: 50px;
+    margin-left: 0;
+    width: 70%;
+    border-top: 2px solid #333;
+    
+}
+
+section {
+    padding: 5px 0;
+}
+
+h2 {
+    color: #008080;
+    font-size: 1.2rem;
+}
+
+.topic {
+    color: #003366;
+    font-size: 1.3rem;
+}
